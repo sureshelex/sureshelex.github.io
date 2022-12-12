@@ -1,8 +1,12 @@
-# Suresh Chandrasekaran, M.E.
-Staff Engineer,
-Qualcomm India Private Limited - Chennai.
-Email: csuresh@qti.qualcomm.com.
-Phone: +91-95974-39711.
+# Suresh Chandrasekaran  
+
+Masters (M.E.) in Telecommunication Engg.,  
+Senior Staff Systems Engineer,  
+WLAN Physical layer,  
+[Qualcomm](https://www.qualcomm.com/home) India Private Limited,  
+Chennai, Tamil Nadu, India.  
+Email: [sureshelex@gmail.com](mailto:sureshelex@gmail.com)  
+Phone: +91-95974-39711  
 
 ---
 
@@ -40,9 +44,7 @@ I am a systems engineer working  in Wireless Local Area Networks (WLANs), with i
 
 ### CURRENT ROLE
 
-|                |                                                   |
-| -------------- | ------------------------------------------------- |
-| **Position**   | **Staff Engineer**                                |
+**Senior Staff Systems Engineer**                             
 | **Department** | HW Systems                                        |
 | **Period**     | 6 years and 10 months, from July 4, 2011 onwards. |
 | **References** | Ashutosh Gore, Ravi Subramanian                   |
